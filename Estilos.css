@@ -1,0 +1,137 @@
+*{
+  background-color: darkcyan;
+}
+
+h1{
+  background: ;
+  font-family: Tourney;
+  text-align: center;
+  color: white;
+  font-size: 100px;
+  
+}
+
+
+.po{
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px;
+  
+}
+
+.caja { 
+font-family: cursive; 
+font-size: 18px; 
+font-weight: 40; 
+color: white; 
+background: cadetblue ;
+}
+.por2 {
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px
+}
+
+.caja2 {
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: 40;
+  color: white;
+  background: cadetblue;
+}
+
+.por3 {
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px
+}
+
+.caja3 {
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: 40;
+  color: white;
+  background: cadetblue;
+}
+
+.por4 {
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px
+}
+
+.caja4 {
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: 40;
+  color: white;
+  background: cadetblue;
+}
+.lista1{
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+}
+.teto{
+  color: white;
+  text-align: center;
+  list-style: none;
+  font-size: 25px;
+  
+  
+  
+}
+
+.tito{
+  color: white;
+  text-align: center;
+  list-style: none;
+  font-size: 25px;
+  
+}
+
+
+.gifo{
+  display: block;
+  margin: auto;
+}
+
+.uno{
+  display: block;
+  margin: auto;
+}
+
+.kato{
+  display: block;
+  margin: auto;
+  padding-top: 0.5px;
+  
+}
+
+.kato1{
+  display: block;
+  margin: auto;
+  
+}
+.kato2{
+  display: block;
+  margin: auto;
+}
+
+.footer{
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 100;
+}
+
+
+.face{
+  display: block;
+  margin: auto;
+}
+
+.ins{
+  display: block;
+  margin: auto;
+}
